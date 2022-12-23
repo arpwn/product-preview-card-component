@@ -108,7 +108,7 @@
         margin-right: 10px;
     }
 
-    button p {
+    button span {
         color: var(--white);
         font-size: 12px;
         font-weight: 500;
@@ -222,7 +222,7 @@
         margin-left: 100px;
     }
 
-    button p {
+    button span {
         color: var(--white);
         font-size: 12px;
         font-weight: 500;
@@ -335,7 +335,7 @@
         margin-top: -35px;
     }
 
-    button p {
+    button span {
         color: var(--white);
         font-size: 20px;
         font-weight: 500;
