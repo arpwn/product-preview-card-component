@@ -29,7 +29,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop version
-![](./screenshot.jpeg)
+![](./images/screenshot.jpeg)
+
+Responsive
+![](./images/responsive.png)
 
 ### Links
 
